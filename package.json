@@ -1,6 +1,6 @@
 {
-  "name": "vscode-tcl",
-  "displayName": "Tcl",
+  "name": "vscode-tcl-highlight",
+  "displayName": "Tcl syntax highlighting",
   "description": "Tcl syntax highlighting",
   "version": "0.2.1",
   "publisher": "jjppof",
