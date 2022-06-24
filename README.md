@@ -6,5 +6,5 @@ Provides syntax highlighting for the Tcl language. Created after VS Code 1.37.0 
 
 Special thanks goes to Chris Ainsley for creating [Iro](https://eeyo.io/iro/), "a development tool designed to simplify the creation of syntax highlighters across many platforms." Despite being in beta, it's incredibly stable and easy to use.
 
-[Iro docs](https://eeyo.io/iro/documentation/)
-[Iro online debugger](https://eeyo.io/iro/)
+- [Iro docs](https://eeyo.io/iro/documentation/)
+- [Iro online debugger](https://eeyo.io/iro/)
