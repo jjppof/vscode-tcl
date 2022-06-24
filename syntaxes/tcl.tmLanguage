@@ -231,7 +231,7 @@
             </dict>
            </array>
           <key>end</key>
-          <string>((?&lt;!\\\s)$)</string>
+          <string>((?&lt;!\\)(?&lt;!\s)\s*$)</string>
           <key>endCaptures</key>
           <dict>
             <key>1</key>
